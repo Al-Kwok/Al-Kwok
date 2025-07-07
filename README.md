@@ -45,7 +45,6 @@ Languages:
   </tr>
 </table>
 
-<br/><br/>
 
 Libraries/ Frameworks:
 
@@ -58,7 +57,6 @@ Libraries/ Frameworks:
   </tr>
 </table>
 
-<br/><br/>
 
 Developer Tools:
 
