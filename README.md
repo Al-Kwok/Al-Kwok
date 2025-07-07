@@ -4,7 +4,6 @@
 
 Languages:
 
-<div>
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="assets/java.png" alt="Java" width="40"/><br/>
     <sub>Java</sub>
@@ -33,4 +32,3 @@ Languages:
     <img src="assets/tailwindcss.png" alt="Tailwind CSS" width="40"/><br/>
     <sub>Tailwind CSS</sub>
   </div>
-</div>
