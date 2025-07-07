@@ -4,31 +4,35 @@
 
 Languages:
 
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/java.png" alt="Java" width="40"/><br/>
-    <sub>Java</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/python.png" alt="Python" width="40"/><br/>
-    <sub>Python</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/c-pp.png" alt="C++" width="40"/><br/>
-    <sub>C++</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/c.png" alt="C" width="40"/><br/>
-    <sub>C</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/JS.png" alt="JavaScript" width="40"/><br/>
-    <sub>JavaScript</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/html.png" alt="HTML" width="40"/><br/>
-    <sub>HTML</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="assets/tailwindcss.png" alt="Tailwind CSS" width="40"/><br/>
-    <sub>Tailwind CSS</sub>
-  </div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/java.png" width="40"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center">
+      <img src="assets/python.png" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="assets/c-pp.png" width="40"/><br/>
+      <sub>C++</sub>
+    </td>
+    <td align="center">
+      <img src="assets/c.png" width="40"/><br/>
+      <sub>C</sub>
+    </td>
+    <td align="center">
+      <img src="assets/JS.png" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center">
+      <img src="assets/html.png" width="40"/><br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="assets/tailwindcss.png" width="40"/><br/>
+      <sub>Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
