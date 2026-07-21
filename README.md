@@ -38,10 +38,6 @@ Languages:
       <img src="assets/html.png" width="40"/><br/>
       <sub>HTML</sub>
     </td>
-    <td align="center">
-      <img src="assets/tailwindcss.png" width="40"/><br/>
-      <sub>Tailwind CSS</sub>
-    </td>
   </tr>
 </table>
 
@@ -53,6 +49,10 @@ Libraries/ Frameworks:
     <td align="center">
       <img src="assets/react.png" width="40"/><br/>
       <sub>ReactJS</sub>
+    </td>
+    <td align="center">
+      <img src="assets/tailwindcss.png" width="40"/><br/>
+      <sub>Tailwind CSS</sub>
     </td>
   </tr>
 </table>
